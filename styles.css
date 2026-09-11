@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.datos-alumno {
+    background-color: #eef2f5;
+    border-left: 5px solid #006847;
+    padding: 12px 18px;
+    margin-bottom: 25px;
+    border-radius: 4px;
+}
+
+.datos-alumno p {
+    margin: 4px 0;
+    font-size: 15px;
+}
+
+h1 {
+    color: #006847;
+    text-align: center;
+}
+
+nav {
+    background-color: #006847;
+    padding: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ce1126;
+}
+
+.parrafo_normal {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border-radius: 4px;
+}
